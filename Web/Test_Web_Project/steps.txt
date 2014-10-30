@@ -1,4 +1,8 @@
+
+//At the start of the day
 1. git pull //get updated codes.
+
+// At th end of the day
 2. git add .
 3. git commit -m "comment of changes"
 4. git push origin master
