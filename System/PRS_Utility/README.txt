@@ -1,3 +1,6 @@
+-- The Master branch of this project will be or is the Production code
+-- No one will touch this without discussing first with Shreyansh
+
 -- Make the project in this folder
 -- Use the following commands for pulling/pushing/merging
 
